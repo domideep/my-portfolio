@@ -1,0 +1,8 @@
+{
+  "name": "Kinetic Terminal",
+  "description": "High-performance engineering platform and terminal interface with architectural clarity, real-time node telemetry, and interactive cloud systems control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
